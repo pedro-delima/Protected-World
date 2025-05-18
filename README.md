@@ -1,6 +1,7 @@
 # Protected-World
 
-![Design sem nome (11)](https://github.com/user-attachments/assets/288c13ce-e1c2-4cee-b39e-0c0a89bb82fc)
+e![Design sem nome (12)](https://github.com/user-attachments/assets/9e47e429-0bc8-41fa-a0c0-32697b320166)
+
 
 
 ![passar-mal](https://github.com/user-attachments/assets/171e2481-4a44-400a-8a90-e695015b7ec4)
