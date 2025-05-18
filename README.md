@@ -19,3 +19,6 @@ Mais do que apenas informar, incentivamos a adoção de práticas conscientes, *
 Além disso, os efeitos do aquecimento global são reais e, infelizmente, inevitáveis. A **Protected World** oferece **planos de atividade adaptados à condição climática local**, ajudando comunidades a enfrentarem os desafios do presente com responsabilidade e preparo.
 
 > **Acreditamos que informação salva vidas. E que ação responsável constrói um futuro mais seguro. Junte-se a nós nessa missão de prevenção e preparação!**
+
+#Testando Programa
+![2025-05-17 23-21-27 (1)](https://github.com/user-attachments/assets/ca6d5ce1-1d50-4393-bba7-f34682540ec2)
