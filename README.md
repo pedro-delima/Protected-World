@@ -1,13 +1,14 @@
 # Protected-World
 
-e![Design sem nome (12)](https://github.com/user-attachments/assets/9e47e429-0bc8-41fa-a0c0-32697b320166)
+
+![Design sem nome (13)](https://github.com/user-attachments/assets/5f5386d9-acc4-44c8-9811-5274eb0b33d3)
 
 
 
-![passar-mal](https://github.com/user-attachments/assets/171e2481-4a44-400a-8a90-e695015b7ec4)
 
 
 "Desastres Naturais são uma realidade inevitável, mas seus impactos devastadores não precisam ser. O que podemos e devemos evitar é a magnitude de sua destruição.
+![image_processing20230918-30872-1185a5v](https://github.com/user-attachments/assets/5df026ee-372d-43ce-af58-4a54f3110b07)
 
 Infelizmente, a resposta a eles, tanto por parte de governos quanto da sociedade, costuma ser reativa, agindo apenas após a tragédia ocorrer.
 
